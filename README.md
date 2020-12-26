@@ -1,6 +1,6 @@
 # Product Management Links
 
-For those interested in Product Management. Links so you don't need to start from scratch. 
+For those interested in Product Management like myself. Links so we don't need to start from scratch. 
 
 ##### Specs 
   * [Working Backwards - Werner Vogels](https://www.allthingsdistributed.com/2006/11/working_backwards.html)
