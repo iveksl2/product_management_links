@@ -15,3 +15,7 @@ For those interested in Product Management like myself. Links so we don't need t
   
 ##### Demos
   * [Silicon Valley - Techcrunch - Diiiiiiissrruuuuupt!](https://www.youtube.com/watch?v=J-GVd_HLlps)
+
+##### Project Management & Planning
+  * [Pre-Mortems](https://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/bias-busters-premortems-being-smart-at-the-start) - Mckinsey - "An ounce of prevention is worth a pound of cure"
+  
