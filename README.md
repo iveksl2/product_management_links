@@ -6,7 +6,7 @@ For those interested in Product Management like myself. Links so we don't need t
   * [Working Backwards - Werner Vogels](https://www.allthingsdistributed.com/2006/11/working_backwards.html)
   * [Writing, Briefly - Paul Graham](http://www.paulgraham.com/writing44.html)
   * [Bad Mangers Talk, Good Managers Write](http://blog.idonethis.com/managers-write/)
-  * [Flowcharts - 5 Tips for Better Flowcharts](https://www.smartdraw.com/flowchart/flowchart-tips.htm)
+    * [Flowcharts - 5 Tips for Better Flowcharts](https://www.smartdraw.com/flowchart/flowchart-tips.htm)
  
 ##### Cultivating Positive Relationships with Engineers, Designers
   * The world is awash in 'brilliant visionairies' [(often self-labelled)](https://www.youtube.com/watch?v=DkGMY63FF3Q) that don't productize much. By definition the do'ers are bringing a vision into a reality and doing the hard real work that has a disproportionate effect on the outcome.  
@@ -20,3 +20,5 @@ For those interested in Product Management like myself. Links so we don't need t
 ##### Project Management & Planning
   * [Pre-Mortems](https://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/bias-busters-premortems-being-smart-at-the-start) - Mckinsey - "An ounce of prevention is worth a pound of cure"
   
+##### Prioritize & Decide 
+  * [How we make decisions at Coinbase](https://medium.com/@barmstrong/how-we-make-decisions-at-coinbase-cd6c630322e9)
