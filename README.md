@@ -13,6 +13,8 @@ For those interested in Product Management like myself. Links so we don't need t
     * Tips:
       * Find a way to align incentives. If the Product succeeds the engineers should benefit and vice versa with the PM. Not rocket science. 
   * [Before you push others, push yourself - Jennifer Porter](https://hbr.org/2019/01/to-improve-your-team-first-work-on-yourself)
+  * [The Product Trio - Teresa Torres](https://www.producttalk.org/2021/05/product-trio/?utm_source=Twitter&utm_medium=tweet-this&utm_campaign=Monthly%20Post)
+    * Work collaboratively with engineering & design
   
 ##### Demos
   * [Silicon Valley - Techcrunch - Diiiiiiissrruuuuupt!](https://www.youtube.com/watch?v=J-GVd_HLlps)
