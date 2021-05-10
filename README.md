@@ -4,6 +4,7 @@ For those interested in Product Management like myself. Links so we don't need t
 
 ##### Specs 
   * [Working Backwards - Werner Vogels](https://www.allthingsdistributed.com/2006/11/working_backwards.html)
+    * [Amazon Press Release - Andrea Marchiotto](https://medium.com/@IndianaStyle/amazon-press-release-how-to-55d61188ecdd)
   * [Writing, Briefly - Paul Graham](http://www.paulgraham.com/writing44.html)
   * [Bad Mangers Talk, Good Managers Write](http://blog.idonethis.com/managers-write/)
     * [Flowcharts - 5 Tips for Better Flowcharts](https://www.smartdraw.com/flowchart/flowchart-tips.htm)
