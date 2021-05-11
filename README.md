@@ -25,3 +25,7 @@ For those interested in Product Management like myself. Links so we don't need t
   
 ##### Prioritize & Decide 
   * [How we make decisions at Coinbase](https://medium.com/@barmstrong/how-we-make-decisions-at-coinbase-cd6c630322e9)
+
+##### Customer Interviews
+  * [How to Talk to Users - Eric Migicovsky](https://www.ycombinator.com/library/6g-how-to-talk-to-users) - Best bang for the buck talk on talking to users I have seen. 
+
