@@ -2,6 +2,8 @@
 
 For those interested in Product Management like myself. Links so we don't need to start from scratch. 
 
+[Letter to a new PM - Brian Armstrong](https://sriramk.com/memos/brian_armstrong_new_PM_letter.pdf)
+
 ##### Specs 
   * [Working Backwards - Werner Vogels](https://www.allthingsdistributed.com/2006/11/working_backwards.html)
     * [Amazon Press Release - Andrea Marchiotto](https://medium.com/@IndianaStyle/amazon-press-release-how-to-55d61188ecdd)
