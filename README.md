@@ -6,7 +6,7 @@ For those interested in Product Management like myself. Links so we don't need t
 
 ##### Specs 
   * [Working Backwards - Werner Vogels](https://www.allthingsdistributed.com/2006/11/working_backwards.html)
-    * [Amazon Press Release - Andrea Marchiotto](https://medium.com/@IndianaStyle/amazon-press-release-how-to-55d61188ecdd)
+    * [Working Backwards by Amazon](https://www.product-frameworks.com/Amazon-Product-Management.html)
   * [Writing, Briefly - Paul Graham](http://www.paulgraham.com/writing44.html)
   * [Bad Mangers Talk, Good Managers Write](http://blog.idonethis.com/managers-write/)
     * [Flowcharts - 5 Tips for Better Flowcharts](https://www.smartdraw.com/flowchart/flowchart-tips.htm)
@@ -30,4 +30,10 @@ For those interested in Product Management like myself. Links so we don't need t
 
 ##### Customer Interviews
   * [How to Talk to Users - Eric Migicovsky](https://www.ycombinator.com/library/6g-how-to-talk-to-users) - Best bang for the buck talk on talking to users I have seen. 
+
+##### Good Quotes
+  * "Seek collaboration not consensus" - can't find source
+    * [Consensus vs Collaboration - Ravi Kumar](https://medium.com/@yoursproductly/consensus-vs-collaboration-vs-consent-ad4183e3b69f)
+  * "We want it to be super sick, its already pretty sick, but we want it to be super sick" - Mackenzie Heiser
+  * ["Rule of thumb for user experience design: more options, more problems" - Scott Belsky](https://www.linkedin.com/posts/pascalbornet_%3F%3F%3F%3F-%3F%3F-%3F%3F%3F%3F%3F-%3F%3F%3F-%3F%3F%3F%3F-activity-6746424082788708352-o9N-)
 
