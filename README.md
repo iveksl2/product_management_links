@@ -37,3 +37,8 @@ For those interested in Product Management like myself. Links so we don't need t
   * "We want it to be super sick, its already pretty sick, but we want it to be super sick" - Mackenzie Heiser
   * ["Rule of thumb for user experience design: more options, more problems" - Scott Belsky](https://www.linkedin.com/posts/pascalbornet_%3F%3F%3F%3F-%3F%3F-%3F%3F%3F%3F%3F-%3F%3F%3F-%3F%3F%3F%3F-activity-6746424082788708352-o9N-)
 
+##### Resources 
+  * [Real-World Product Management Specialization - Nancy Wang](https://www.coursera.org/specializations/real-world-product-management). This a very practical introduction & broad spectrum intro. The course is open to all. 
+
+
+
