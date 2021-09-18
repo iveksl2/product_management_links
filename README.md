@@ -32,6 +32,7 @@ For those interested in Product Management like myself. Links so we don't need t
 ##### Customer Interviews
   * [How to Talk to Users - Eric Migicovsky](https://www.ycombinator.com/library/6g-how-to-talk-to-users) - Best bang for the buck talk on talking to users I have seen. 
   * [JTBD Theory Rabbit Hole - Alan Klement](https://jtbd.info/know-the-two-very-different-interpretations-of-jobs-to-be-done-5a18b748bd89)
+  * [Build Products That Solve Real Problems with this lightweight JTGD Framework - Sunita Mohanty](https://review.firstround.com/build-products-that-solve-real-problems-with-this-lightweight-jtbd-framework)
 
 ##### Good Quotes
   * "Seek collaboration not consensus" - can't find source
