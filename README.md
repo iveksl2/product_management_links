@@ -29,10 +29,14 @@ For those interested in Product Management like myself. Links so we don't need t
   * [How we make decisions at Coinbase](https://medium.com/@barmstrong/how-we-make-decisions-at-coinbase-cd6c630322e9)
   * [10/10/10 Rule - Teressa Torres: from Heath brothers](https://www.producttalk.org/2013/09/how-the-101010-rule-can-lead-to-better-product-decisions/?utm_source=Product%20Talk%20Newsletter%20June%2027%2C%202021&utm_medium=email&utm_campaign=From%20the%20Product%20Talk%20Archives)
 
-##### Customer Interviews
+##### Customer Research & Interviews
   * [How to Talk to Users - Eric Migicovsky](https://www.ycombinator.com/library/6g-how-to-talk-to-users) - Best bang for the buck talk on talking to users I have seen. 
   * [JTBD Theory Rabbit Hole - Alan Klement](https://jtbd.info/know-the-two-very-different-interpretations-of-jobs-to-be-done-5a18b748bd89)
   * [Build Products That Solve Real Problems with this lightweight JTGD Framework - Sunita Mohanty](https://review.firstround.com/build-products-that-solve-real-problems-with-this-lightweight-jtbd-framework)
+  * [Ladder of Evidence - Teresa Torres](https://www.youtube.com/watch?v=TF0EzrKINqg&t=467s)
+    *  Simulate an experience rather than ask if they would use something. (Unreliable)
+    *  Ask for a speicic story from the past
+    *  Look for evidence of action
 
 ##### Good Quotes
   * "Seek collaboration not consensus" - can't find source
