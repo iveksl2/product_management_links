@@ -39,6 +39,14 @@ For those interested in Product Management like myself. Links so we don't need t
     *  Ask for a speicic story from the past
     *  Look for evidence of action
 
+##### Misc
+  * [Elon Musk 5 step process for making things in a better way - Elon Musk](https://www.youtube.com/watch?v=hhuaVsOAMFc)
+    1. Make your requirements less dumb 
+    2. Delete the part or process
+    3. Simplify / Optimise
+    4. Accelerate cycle times
+    5. Automate 
+
 ##### Good Quotes
   * "Seek collaboration not consensus" - can't find source
     * [Consensus vs Collaboration - Ravi Kumar](https://medium.com/@yoursproductly/consensus-vs-collaboration-vs-consent-ad4183e3b69f)
