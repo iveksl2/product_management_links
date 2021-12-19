@@ -47,6 +47,7 @@ For those interested in Product Management like myself. Links so we don't need t
     4. Accelerate cycle times
     5. Automate 
   * What answer will you get when you stop an employee in the hallway and ask them what their focus is? [Source](https://barryoreilly.com/explore/blog/your-mission-is-to-produce-outcomes-not-outputs/)
+  * [Market feedback is the best kind of feedback](https://www.youtube.com/watch?v=cnNL4blAy6A)
 
 ##### Good Quotes
   * "Seek collaboration not consensus" - can't find source
