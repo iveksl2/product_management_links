@@ -2,8 +2,8 @@
 
 For those interested in Product Management like myself. Links so we don't need to start from scratch. 
 
-[Letter to a new PM - Brian Armstrong](https://sriramk.com/memos/brian_armstrong_new_PM_letter.pdf)
-[7 Insightful Quotes from Amazon's Letter to Shareholders](https://medium.com/the-mission/7-insightful-quotes-from-amazons-letter-to-shareholders-d19fce498bd2)
+* [Letter to a new PM - Brian Armstrong](https://sriramk.com/memos/brian_armstrong_new_PM_letter.pdf)
+* [7 Insightful Quotes from Amazon's Letter to Shareholders](https://medium.com/the-mission/7-insightful-quotes-from-amazons-letter-to-shareholders-d19fce498bd2)
 
 ##### Specs 
   * [Working Backwards - Werner Vogels](https://www.allthingsdistributed.com/2006/11/working_backwards.html)
