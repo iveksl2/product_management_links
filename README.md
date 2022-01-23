@@ -54,9 +54,10 @@ For those interested in Product Management like myself. Links so we don't need t
     * [Consensus vs Collaboration - Ravi Kumar](https://medium.com/@yoursproductly/consensus-vs-collaboration-vs-consent-ad4183e3b69f)
   * "We want it to be super sick, its already pretty sick, but we want it to be super sick" - Mackenzie Heiser
   * ["Rule of thumb for user experience design: more options, more problems" - Scott Belsky](https://www.linkedin.com/posts/pascalbornet_%3F%3F%3F%3F-%3F%3F-%3F%3F%3F%3F%3F-%3F%3F%3F-%3F%3F%3F%3F-activity-6746424082788708352-o9N-)
+  * ["A user interface is like a joke. If you have to explain it, its not that good"](https://www.linkedin.com/posts/deanrizzuto_right-activity-6846444032500002816-fHkr/)
 
 ##### Resources 
-  * [Real-World Product Management Specialization - Nancy Wang](https://www.coursera.org/specializations/real-world-product-management). This a very practical introduction & broad spectrum intro. The course is open to all. 
+  
 
 
 
