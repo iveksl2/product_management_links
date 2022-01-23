@@ -7,10 +7,9 @@ For those interested in Product Management like myself. Links so we don't need t
 
 ##### Specs 
   * [Working Backwards - Werner Vogels](https://www.allthingsdistributed.com/2006/11/working_backwards.html)
-    * [Working Backwards by Amazon](https://www.product-frameworks.com/Amazon-Product-Management.html)
+  * [Working Backwards by Amazon](https://www.product-frameworks.com/Amazon-Product-Management.html)
   * [Writing, Briefly - Paul Graham](http://www.paulgraham.com/writing44.html)
   * [Bad Mangers Talk, Good Managers Write](http://blog.idonethis.com/managers-write/)
-    * [Flowcharts - 5 Tips for Better Flowcharts](https://www.smartdraw.com/flowchart/flowchart-tips.htm)
  
 ##### Cultivating Positive Relationships with Engineers, Designers
   * The world is awash in 'brilliant visionairies' [(often self-labelled)](https://www.youtube.com/watch?v=DkGMY63FF3Q) that don't productize much. By definition the do'ers are bringing a vision into a reality and doing the hard real work that has a disproportionate effect on the outcome.  
@@ -19,6 +18,8 @@ For those interested in Product Management like myself. Links so we don't need t
   * [Before you push others, push yourself - Jennifer Porter](https://hbr.org/2019/01/to-improve-your-team-first-work-on-yourself)
   * [The Product Trio - Teresa Torres](https://www.producttalk.org/2021/05/product-trio/?utm_source=Twitter&utm_medium=tweet-this&utm_campaign=Monthly%20Post)
     * Work collaboratively with engineering & design
+      * Communication
+        * "Provide expectations in the spec so engineers can create tests against. I.E. Even if this is is google sheets for data expectations" - [Nick L](https://github.com/nloadholtes) & [Anton B](https://github.com/berzhy)
   
 ##### Demos
   * [Silicon Valley - Techcrunch - Diiiiiiissrruuuuupt!](https://www.youtube.com/watch?v=J-GVd_HLlps)
@@ -28,7 +29,7 @@ For those interested in Product Management like myself. Links so we don't need t
   
 ##### Prioritize & Decide 
   * [How we make decisions at Coinbase](https://medium.com/@barmstrong/how-we-make-decisions-at-coinbase-cd6c630322e9)
-  * [10/10/10 Rule - Teressa Torres: from Heath brothers](https://www.producttalk.org/2013/09/how-the-101010-rule-can-lead-to-better-product-decisions/?utm_source=Product%20Talk%20Newsletter%20June%2027%2C%202021&utm_medium=email&utm_campaign=From%20the%20Product%20Talk%20Archives)
+
 
 ##### Customer Research & Interviews
   * [How to Talk to Users - Eric Migicovsky](https://www.ycombinator.com/library/6g-how-to-talk-to-users) - Best bang for the buck talk on talking to users I have seen. 
