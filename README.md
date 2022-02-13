@@ -1,6 +1,19 @@
 # Product Management Links
 
-For those interested in Product Management like myself. Links so we don't need to start from scratch. 
+For those interested in Product Management like myself. Links so we don't need to start from scratch. Outline format is loosely based from [this](https://github.com/Developer-Y/cs-video-courses)
+
+Table of Contents
+------------------------------
+- [General](#general)
+- [Specs](#specs)
+- [Aligning Incentives](#aligning-incentives)
+- [Demos](#demos)
+- [Project Management and Planning](#project-management-and-planning)
+- [Customer Research and Interviews](#customer-research-and-interviews)
+- [Misc](#misc)
+- [Good Quotes](#good-quotes)
+
+##### General 
 
 * [Letter to a new PM - Brian Armstrong](https://sriramk.com/memos/brian_armstrong_new_PM_letter.pdf)
 * [7 Insightful Quotes from Amazon's Letter to Shareholders](https://medium.com/the-mission/7-insightful-quotes-from-amazons-letter-to-shareholders-d19fce498bd2)
@@ -11,7 +24,7 @@ For those interested in Product Management like myself. Links so we don't need t
   * [Writing, Briefly - Paul Graham](http://www.paulgraham.com/writing44.html)
   * [Bad Mangers Talk, Good Managers Write](http://blog.idonethis.com/managers-write/)
  
-##### Cultivating Positive Relationships with Engineers, Designers
+##### Aligning Incentives 
   * The world is awash in 'brilliant visionairies' [(often self-labelled)](https://www.youtube.com/watch?v=DkGMY63FF3Q) that don't productize much. By definition the do'ers are bringing a vision into a reality and doing the hard real work that has a disproportionate effect on the outcome.  
     * Tips:
       * Find a way to align incentives. If the Product succeeds the engineers should benefit and vice versa with the PM. Not rocket science. 
@@ -24,15 +37,12 @@ For those interested in Product Management like myself. Links so we don't need t
 ##### Demos
   * [Silicon Valley - Techcrunch - Diiiiiiissrruuuuupt!](https://www.youtube.com/watch?v=J-GVd_HLlps)
 
-##### Project Management & Planning
+##### Project Management and Planning
   * [Pre-Mortems](https://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/bias-busters-premortems-being-smart-at-the-start) - Mckinsey - "An ounce of prevention is worth a pound of cure"
-  
-##### Prioritize & Decide 
   * [How we make decisions at Coinbase](https://medium.com/@barmstrong/how-we-make-decisions-at-coinbase-cd6c630322e9)
 
-
-##### Customer Research & Interviews
-  * [How to Talk to Users - Eric Migicovsky](https://www.ycombinator.com/library/6g-how-to-talk-to-users) - Best bang for the buck talk on talking to users I have seen. 
+##### Customer Research and Interviews
+  * [How to Talk to Users - Eric Migicovsky](https://www.ycombinator.com/library/6g-how-to-talk-to-users) 
   * [JTBD Theory Rabbit Hole - Alan Klement](https://jtbd.info/know-the-two-very-different-interpretations-of-jobs-to-be-done-5a18b748bd89)
   * [Build Products That Solve Real Problems with this lightweight JTGD Framework - Sunita Mohanty](https://review.firstround.com/build-products-that-solve-real-problems-with-this-lightweight-jtbd-framework)
   * [Ladder of Evidence - Teresa Torres](https://www.youtube.com/watch?v=TF0EzrKINqg&t=467s)
@@ -56,6 +66,7 @@ For those interested in Product Management like myself. Links so we don't need t
   * "We want it to be super sick, its already pretty sick, but we want it to be super sick" - Mackenzie Heiser
   * ["Rule of thumb for user experience design: more options, more problems" - Scott Belsky](https://www.linkedin.com/posts/pascalbornet_%3F%3F%3F%3F-%3F%3F-%3F%3F%3F%3F%3F-%3F%3F%3F-%3F%3F%3F%3F-activity-6746424082788708352-o9N-)
   * ["A user interface is like a joke. If you have to explain it, its not that good"](https://www.linkedin.com/posts/deanrizzuto_right-activity-6846444032500002816-fHkr/)
+  * [User Experience vs Design](https://www.reddit.com/r/userexperience/comments/6f12ch/user_experience_vs_design/)
 
 ##### Resources 
   
