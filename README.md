@@ -59,6 +59,8 @@ Table of Contents
     5. Automate 
   * What answer will you get when you stop an employee in the hallway and ask them what their focus is? [Source](https://barryoreilly.com/explore/blog/your-mission-is-to-produce-outcomes-not-outputs/)
   * [Market feedback is the best kind of feedback](https://www.youtube.com/watch?v=cnNL4blAy6A)
+  * [Great Products do less, but better](https://uxdesign.cc/great-products-do-less-things-but-better-5dde0ee3fc76) 
+    * Great example of cluttered product with the graphing calculator
 
 ##### Good Quotes
   * "Seek collaboration not consensus" - can't find source
