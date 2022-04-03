@@ -61,6 +61,7 @@ Table of Contents
   * [Product Market Fit Video](https://www.youtube.com/watch?v=cnNL4blAy6A)
   * [Great Products do less, but better](https://uxdesign.cc/great-products-do-less-things-but-better-5dde0ee3fc76) 
     * Great example of cluttered product with the graphing calculator
+   * [Focus on the things that won't change - Jeff Bezos](https://www.youtube.com/shorts/yCEX_Q5O0CI)
 
 ##### Good Quotes
   * "Seek collaboration not consensus" - can't find source
