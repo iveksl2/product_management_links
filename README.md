@@ -45,7 +45,7 @@ Table of Contents
   * [How to Talk to Users - Eric Migicovsky](https://www.ycombinator.com/library/6g-how-to-talk-to-users) 
   * [JTBD Theory Rabbit Hole - Alan Klement](https://jtbd.info/know-the-two-very-different-interpretations-of-jobs-to-be-done-5a18b748bd89)
   * [Crash Course in Discovery Questions - Tristan Kromer](https://kromatic.com/blog/how-asking-works-a-crash-course-in-customer-discovery-questions/) 
-    * Open ended 'explain or tell me' questions don't lead the witness and are good for 80/20 listening/talking dynamic 
+    * Open ended 'explain or tell me' questions don't lead the witness and are good for a 80/20 listening/talking dynamic 
   * [Build Products That Solve Real Problems with this lightweight JTBD Framework - Sunita Mohanty](https://review.firstround.com/build-products-that-solve-real-problems-with-this-lightweight-jtbd-framework)
   * [Ladder of Evidence - Teresa Torres](https://www.youtube.com/watch?v=TF0EzrKINqg&t=467s)
     *  Simulate an experience rather than ask if they would use something. (Unreliable)
