@@ -51,6 +51,7 @@ Table of Contents
     *  Simulate an experience rather than ask if they would use something. (Unreliable)
     *  Ask for a speicic story from the past
     *  Look for evidence of action
+  *  [The origins of agile - Marty Cagan](https://www.svpg.com/the-origins-of-agile/)
 
 ##### Misc
   * [Elon Musk 5 step process for making things in a better way - Elon Musk](https://www.youtube.com/watch?v=hhuaVsOAMFc)
