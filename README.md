@@ -75,6 +75,7 @@ Table of Contents
   * ["Rule of thumb for user experience design: more options, more problems" - Scott Belsky](https://www.linkedin.com/posts/pascalbornet_%3F%3F%3F%3F-%3F%3F-%3F%3F%3F%3F%3F-%3F%3F%3F-%3F%3F%3F%3F-activity-6746424082788708352-o9N-)
   * ["A user interface is like a joke. If you have to explain it, its not that good"](https://www.linkedin.com/posts/deanrizzuto_right-activity-6846444032500002816-fHkr/)
   * [User Experience vs Design](https://www.reddit.com/r/userexperience/comments/6f12ch/user_experience_vs_design/)
+  * [Think about Product Bets, Success Metrics, and Roadmapping - John Cutler](https://docs.google.com/document/d/e/2PACX-1vQ0vERe4LLpS8s2jzJKDPixrT-Q2Gr6AJZR4MRXFFCQUXSGuCptR9YDYjPTA2Ct0tAUBwCBmYsqUH_M/pub)
 
 ##### Resources 
   
