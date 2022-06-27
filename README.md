@@ -68,6 +68,7 @@ Table of Contents
    * [The Rudder Fallacy - Tristan Kromer](https://kromatic.com/blog/the-rudder-fallacy-adopting-lean-startup/)
      * [Simple before Smart experiments](https://kromatic.com/blog/s-i-m-p-l-e-before-s-m-a-r-t/)
    * [Usability Heuristics for UI Design - Jackob Nielsen](https://www.nngroup.com/articles/ten-usability-heuristics/)
+     * [Boost your UX with These Succcessful Interaction Design Principles](https://www.toptal.com/designers/interactive/interaction-design-principles)
 
 ##### Good Quotes
   * "Seek collaboration not consensus" - can't find source
