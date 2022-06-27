@@ -67,6 +67,7 @@ Table of Contents
    * [Focus on the things that won't change - Jeff Bezos](https://www.youtube.com/shorts/yCEX_Q5O0CI)
    * [The Rudder Fallacy - Tristan Kromer](https://kromatic.com/blog/the-rudder-fallacy-adopting-lean-startup/)
      * [Simple before Smart experiments](https://kromatic.com/blog/s-i-m-p-l-e-before-s-m-a-r-t/)
+   * [Usability Heuristics for UI Design - Jackob Nielsen](https://www.nngroup.com/articles/ten-usability-heuristics/)
 
 ##### Good Quotes
   * "Seek collaboration not consensus" - can't find source
