@@ -10,6 +10,7 @@ Table of Contents
 - [Demos](#demos)
 - [Project Management and Planning](#project-management-and-planning)
 - [Customer Research and Interviews](#customer-research-and-interviews)
+- [Design](#design)
 - [Misc](#misc)
 - [Good Quotes](#good-quotes)
 
@@ -53,6 +54,13 @@ Table of Contents
     *  Look for evidence of action
   *  [The origins of agile - Marty Cagan](https://www.svpg.com/the-origins-of-agile/)
 
+##### Design
+  * [Learn Design - Figma](https://www.figma.com/resources/learn-design/)
+  * [Figma Tutorials](https://help.figma.com/hc/en-us/categories/6448726686615-Tutorials)
+  * [Laws of Simplicity - John Maeda](http://lawsofsimplicity.com/)
+  * [Usability Heuristics for UI Design - Jackob Nielsen](https://www.nngroup.com/articles/ten-usability-heuristics/)
+  * [Boost your UX with These Succcessful Interaction Design Principles](https://www.toptal.com/designers/interactive/interaction-design-principles)
+
 ##### Misc
   * [Elon Musk 5 step process for making things in a better way - Elon Musk](https://www.youtube.com/watch?v=hhuaVsOAMFc)
     1. Make your requirements less dumb 
@@ -67,8 +75,6 @@ Table of Contents
    * [Focus on the things that won't change - Jeff Bezos](https://www.youtube.com/shorts/yCEX_Q5O0CI)
    * [The Rudder Fallacy - Tristan Kromer](https://kromatic.com/blog/the-rudder-fallacy-adopting-lean-startup/)
      * [Simple before Smart experiments](https://kromatic.com/blog/s-i-m-p-l-e-before-s-m-a-r-t/)
-   * [Usability Heuristics for UI Design - Jackob Nielsen](https://www.nngroup.com/articles/ten-usability-heuristics/)
-     * [Boost your UX with These Succcessful Interaction Design Principles](https://www.toptal.com/designers/interactive/interaction-design-principles)
    * [Make Something Real - Jason Mcghee](https://productiveadventures.substack.com/p/make-something-real?sd=pf) 
      * Nice advice on Demo, Polish & First Impressions 
 
