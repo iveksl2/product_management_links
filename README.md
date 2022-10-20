@@ -41,6 +41,7 @@ Table of Contents
 ##### Project Management and Planning
   * [Pre-Mortems](https://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/bias-busters-premortems-being-smart-at-the-start) - Mckinsey - "An ounce of prevention is worth a pound of cure"
   * [How we make decisions at Coinbase](https://medium.com/@barmstrong/how-we-make-decisions-at-coinbase-cd6c630322e9)
+  * [Individual Ensembling - Adam Grant](https://twitter.com/AdamMGrant/status/1564291077024120834)
 
 ##### Customer Research and Interviews
   * [How to Talk to Users - Eric Migicovsky](https://www.ycombinator.com/library/6g-how-to-talk-to-users) 
