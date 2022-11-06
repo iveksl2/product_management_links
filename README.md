@@ -9,6 +9,7 @@ Table of Contents
 - [Aligning Incentives](#aligning-incentives)
 - [Demos](#demos)
 - [Project Management and Planning](#project-management-and-planning)
+- [Tools](#tools)
 - [Customer Research and Interviews](#customer-research-and-interviews)
 - [Design](#design)
 - [Misc](#misc)
@@ -43,6 +44,13 @@ Table of Contents
   * [How we make decisions at Coinbase](https://medium.com/@barmstrong/how-we-make-decisions-at-coinbase-cd6c630322e9)
   * [Individual Ensembling - Adam Grant](https://twitter.com/AdamMGrant/status/1564291077024120834)
 
+  
+##### Tools
+  * [Productboard Academy](https://academy.productboard.com/)
+  * [Atlassian University](https://university.atlassian.com/student/catalog) & [Jira Fundamental](https://university.atlassian.com/student/path/815443-jira-fundamentals?sid_i=0)
+    * Yes, Jira is a POS, but most tech teams use it, so man the F up and learn it and do it well. 
+  
+  
 ##### Customer Research and Interviews
   * [How to Talk to Users - Eric Migicovsky](https://www.ycombinator.com/library/6g-how-to-talk-to-users) 
   * [JTBD Theory Rabbit Hole - Alan Klement](https://jtbd.info/know-the-two-very-different-interpretations-of-jobs-to-be-done-5a18b748bd89)
