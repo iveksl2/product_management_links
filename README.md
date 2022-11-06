@@ -47,7 +47,7 @@ Table of Contents
   
 ##### Tools
   * [Productboard Academy](https://academy.productboard.com/)
-  * [Atlassian University](https://university.atlassian.com/student/catalog) & [Jira Fundamental](https://university.atlassian.com/student/path/815443-jira-fundamentals?sid_i=0)
+  * [Atlassian University](https://university.atlassian.com/student/catalog) & [Jira Fundamentals](https://university.atlassian.com/student/path/815443-jira-fundamentals?sid_i=0)
     * Yes, Jira is a POS, but most tech teams use it, so man the F up and learn it and do it well. 
   
   
