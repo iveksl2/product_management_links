@@ -13,6 +13,7 @@ Table of Contents
 - [Customer Research and Interviews](#customer-research-and-interviews)
 - [Design](#design)
 - [Misc](#misc)
+- [Strategy](#strategy)
 - [Good Quotes](#good-quotes)
 
 ##### General 
@@ -87,6 +88,9 @@ Table of Contents
    * [Make Something Real - Jason Mcghee](https://productiveadventures.substack.com/p/make-something-real?sd=pf) 
      * Nice advice on Demo, Polish & First Impressions 
 
+##### Strategy
+  * [Make assumptions explicit - John Cutler](https://twitter.com/johncutlefish/status/1535759349464715264)
+  
 ##### Good Quotes
   * "Seek collaboration not consensus" - can't find source
     * [Consensus vs Collaboration - Ravi Kumar](https://medium.com/@yoursproductly/consensus-vs-collaboration-vs-consent-ad4183e3b69f)
