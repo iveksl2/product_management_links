@@ -87,6 +87,7 @@ Table of Contents
      * [Simple before Smart experiments](https://kromatic.com/blog/s-i-m-p-l-e-before-s-m-a-r-t/)
    * [Make Something Real - Jason Mcghee](https://productiveadventures.substack.com/p/make-something-real?sd=pf) 
      * Nice advice on Demo, Polish & First Impressions 
+   * [Layers of a PM Competency Stack - Aaiter Abdul Rauf](https://www.linkedin.com/posts/aatirar_productmanagement-activity-6997402436025925632-fMYe/?utm_source=share&utm_medium=member_desktop) - Assume the LI poster can be credited with the image
 
 ##### Strategy
   * [Make assumptions explicit - John Cutler](https://twitter.com/johncutlefish/status/1535759349464715264)
