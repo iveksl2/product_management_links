@@ -54,7 +54,7 @@ Table of Contents
   
 ##### Customer Research and Interviews
   * [Understanding Customer Needs - 15 min case study - Clayton Christensen](https://pll.harvard.edu/course/understanding-customer-needs?delta=0)
-    * Here the thoughts from the horses mouth rather than 2nd hand from a VC blogger
+    * Hear the thoughts from the horses mouth rather than 2nd hand from a VC blogger
   * [How to Talk to Users - Eric Migicovsky](https://www.ycombinator.com/library/6g-how-to-talk-to-users) 
   * [JTBD Theory Rabbit Hole - Alan Klement](https://jtbd.info/know-the-two-very-different-interpretations-of-jobs-to-be-done-5a18b748bd89)
   * [Crash Course in Discovery Questions - Tristan Kromer](https://kromatic.com/blog/how-asking-works-a-crash-course-in-customer-discovery-questions/) 
@@ -63,7 +63,6 @@ Table of Contents
     *  Simulate an experience rather than ask if they would use something. (Unreliable)
     *  Ask for a speicic story from the past
     *  Look for evidence of action
-  *  [The origins of agile - Marty Cagan](https://www.svpg.com/the-origins-of-agile/)
 
 ##### Design
   * [Learn Design - Figma](https://www.figma.com/resources/learn-design/)
