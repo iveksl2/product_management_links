@@ -14,6 +14,7 @@ Table of Contents
 - [Design](#design)
 - [Misc](#misc)
 - [Strategy](#strategy)
+- [Vision](#vision)
 - [Good Quotes](#good-quotes)
 
 ##### General 
@@ -88,9 +89,14 @@ Table of Contents
    * [Make Something Real - Jason Mcghee](https://productiveadventures.substack.com/p/make-something-real?sd=pf) 
      * Nice advice on Demo, Polish & First Impressions 
    * [Layers of a PM Competency Stack - Aaiter Abdul Rauf](https://www.linkedin.com/posts/aatirar_productmanagement-activity-6997402436025925632-fMYe/?utm_source=share&utm_medium=member_desktop) - Assume the LI poster can be credited with the image
+   * Partial success is more dangerous than no success. Products can get stuck in the ["land of the living dead" - Eric Ries - Lean Startup](https://www.kimhartman.se/wp-content/uploads/2013/10/the-lean-startup-summary.pdf)
 
 ##### Strategy
   * [Make assumptions explicit - John Cutler](https://twitter.com/johncutlefish/status/1535759349464715264)
+  
+##### Vision
+  * The importance of vision
+    * ["Users will tell you incremental improvements, they won't tell you to build the next Iphone" - Will Falcone](https://www.youtube.com/clip/Ugkx9TEUVJ3o72loKuUCbkVHelcf55SJBiul)
   
 ##### Good Quotes
   * "Seek collaboration not consensus" - can't find source
