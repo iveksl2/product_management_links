@@ -1,6 +1,9 @@
 # Product Management Links
 
-For those interested in Product Management like myself. Links so we don't need to start from scratch. Outline format is loosely based from [this](https://github.com/Developer-Y/cs-video-courses)
+For those interested in Product Management like myself. Links so we don't need to start from scratch. Outline format is loosely based from [this](https://github.com/Developer-Y/cs-video-courses). 
+
+**Update** This will be converted into a longer form book [here](https://github.com/iveksl2/pm_book) using [Quarto Books](https://quarto.org/docs/books/) & [NBDev](https://nbdev.fast.ai/)
+
 
 Table of Contents
 ------------------------------
