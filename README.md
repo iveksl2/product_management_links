@@ -95,7 +95,11 @@ Table of Contents
    * Partial success is more dangerous than no success. Products can get stuck in the ["land of the living dead" - Eric Ries - Lean Startup](https://www.kimhartman.se/wp-content/uploads/2013/10/the-lean-startup-summary.pdf)
 
 ##### Strategy
+  * "Strategery"
   * [Make assumptions explicit - John Cutler](https://twitter.com/johncutlefish/status/1535759349464715264)
+  * [Best practices for developing a product strategy-Deb Liu](https://debliu.substack.com/p/best-practices-for-developing-a-product)
+  * [Being strategic - Julie Zhuo](https://medium.com/the-year-of-the-looking-glass/how-to-be-strategic-f6630a44f86b)
+  * [What is Strategy - Michael Porter](https://iqfystage.blob.core.windows.net/files/CUE8taE5QUKZf8ujfYlS_Reading+1.4.pdf)
   
 ##### Vision
   * The importance of vision
