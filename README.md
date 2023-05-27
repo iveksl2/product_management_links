@@ -93,6 +93,7 @@ Table of Contents
      * Nice advice on Demo, Polish & First Impressions 
    * [Layers of a PM Competency Stack - Aaiter Abdul Rauf](https://www.linkedin.com/posts/aatirar_productmanagement-activity-6997402436025925632-fMYe/?utm_source=share&utm_medium=member_desktop) - Assume the LI poster can be credited with the image
    * Partial success is more dangerous than no success. Products can get stuck in the ["land of the living dead" - Eric Ries - Lean Startup](https://www.kimhartman.se/wp-content/uploads/2013/10/the-lean-startup-summary.pdf)
+   * [Balance Focus on One Customer vs New Features for Many? - Kevin Hale](https://www.ycombinator.com/library/4N-how-to-balance-focus-on-one-customer-at-a-time-versus-new-features-for-many)
 
 ##### Strategy
   * "Strategery"
