@@ -95,6 +95,7 @@ Table of Contents
    * Partial success is more dangerous than no success. Products can get stuck in the ["land of the living dead" - Eric Ries - Lean Startup](https://www.kimhartman.se/wp-content/uploads/2013/10/the-lean-startup-summary.pdf)
    * [Balance Focus on One Customer vs New Features for Many? - Kevin Hale](https://www.ycombinator.com/library/4N-how-to-balance-focus-on-one-customer-at-a-time-versus-new-features-for-many)
    * [Customer's willingness to Pay test - Teresa Torres](https://www.producttalk.org/2023/05/willingness-to-pay/)
+   * [Google Issues Tracker - Priority](https://developers.google.com/issue-tracker/concepts/issues#priority)
 
 ##### Strategy
   * "Strategery"
